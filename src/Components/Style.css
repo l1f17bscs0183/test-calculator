@@ -1,0 +1,27 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+input {
+    width: 50px;
+    margin: 0 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.total {
+    margin-top: 10px;
+}
